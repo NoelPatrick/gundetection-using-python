@@ -22,7 +22,7 @@ while True:
                                        1.3, 5,
                                        minSize = (100, 100))
        
-    if len(gun) > 0:
+    if len(gun) > 1:
         gun_exist = True
            
     for (x, y, w, h) in gun:
